@@ -1,0 +1,25 @@
+# Environment and secrets
+.env
+.env.*
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Local environments and IDE files
+.venv/
+.vscode/
+.idea/
+.DS_Store
+
+# Local outputs
+*.csv
+!data/*.csv
+!data/sample_submission.csv
