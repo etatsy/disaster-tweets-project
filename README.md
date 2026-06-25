@@ -1,6 +1,4 @@
-
-
-<img width="1038" height="578" alt="Screenshot 2026-06-25 at 22 51 53" src="https://github.com/user-attachments/assets/881e7f48-d49e-40cc-b619-d1fde74dc97e" />
+" />
 # Disaster Tweets Project
 
 Binary text classification project for the Kaggle competition `nlp-getting-started`.
